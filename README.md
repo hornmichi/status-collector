@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Status Page Collector
 
 A simple web application that collects and displays status information from various services including GitHub, AWS, Grafana Cloud, and Opsgenie.
@@ -51,3 +52,6 @@ The dashboard will automatically refresh every 5 minutes to show the latest stat
 ## Contributing
 
 Feel free to submit issues and enhancement requests! 
+=======
+# status-collector
+>>>>>>> 55d6d03d8dae112db6f29be9a8eb1ee45b4b4b6c
