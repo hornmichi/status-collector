@@ -1,5 +1,4 @@
-
-<img width="1562" alt="Bildschirmfoto 2025-03-27 um 09 01 09" src="https://github.com/user-attachments/assets/db4fc1ba-ef72-4954-9538-6c6de5346373" />
+<img width="1588" alt="Bildschirmfoto 2025-04-23 um 21 00 45" src="https://github.com/user-attachments/assets/88abdb9c-d0b0-4932-9382-a4bf961cd9a0" />
 
 # Status Page Collector
 
