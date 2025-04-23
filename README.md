@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+
+<img width="1562" alt="Bildschirmfoto 2025-03-27 um 09 01 09" src="https://github.com/user-attachments/assets/db4fc1ba-ef72-4954-9538-6c6de5346373" />
+
 # Status Page Collector
 
 A simple web application that collects and displays status information from various services including GitHub, AWS, Grafana Cloud, and Opsgenie.
@@ -54,4 +56,3 @@ The dashboard will automatically refresh every 5 minutes to show the latest stat
 Feel free to submit issues and enhancement requests! 
 =======
 # status-collector
->>>>>>> 55d6d03d8dae112db6f29be9a8eb1ee45b4b4b6c
